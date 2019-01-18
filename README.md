@@ -1,4 +1,4 @@
-# ls-lint.vim
+# lslint.vim
 
 ## Installation with VimPlug
 
@@ -6,6 +6,6 @@ You can install this plugin using [Vim-Plug](https://github.com/junegunn/vim-plu
 
 ```
 Plug 'w0rp/ale'
-Plug 'miyabisun/ls-lint.vim'
+Plug 'miyabisun/lslint.vim'
 ```
 
